@@ -27,8 +27,8 @@
 		"cssjanus": "^2.0.0"
 	},
 	"devDependencies": {
-		"eslint-config-wikimedia": "0.32.4",
-		"grunt": "1.6.2"
+		"eslint-config-wikimedia": "0.32.5",
+		"grunt": "1.6.3"
 	},
 	"peerDependencies": {
 		"grunt": ">=1.0.4"
